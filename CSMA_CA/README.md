@@ -1,2 +1,2 @@
-# Medium Access Control (MAC) Layer
-This project cover the CSMA/CA technique in detail.
+# MAC Layer - CSMA/CA Technique
+This project covers the CSMA/CA technique in detail.
