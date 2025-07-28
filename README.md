@@ -68,6 +68,20 @@ The core objective is to provide quantitative insights into:
 
   * Throughput vs. Coverage Area.
 
+## Diagrams and Flowcharts
+
+To provide a clearer understanding of the CSMA/CA protocol's operational flow and the underlying mathematical logic, the following flowcharts are included:
+
+### Enhanced CSMA/CA Flowchart
+![Enhanced CSMA/CA Flowchart](https://github.com/RahulSinghGulia/MAC_Layer/blob/main/CSMA_CA/csma_ca_flowchart_enhanced.png)
+
+This flowchart illustrates the detailed steps and decision points within the enhanced CSMA/CA protocol, including the RTS/CTS handshake and backoff mechanisms.
+
+### CSMA Mathematical Flowchart
+![CSMA Mathematical Flowchart](https://github.com/RahulSinghGulia/MAC_Layer/blob/main/CSMA_CA/csma_math_flowchart.png)
+
+This diagram outlines the mathematical logic and calculations involved in certain aspects of the CSMA/CA simulation.
+
 ## Technologies Used
 
 * **Python 3.x**
